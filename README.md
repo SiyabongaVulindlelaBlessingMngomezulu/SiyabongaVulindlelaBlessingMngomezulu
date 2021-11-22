@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siyabonga Mngomezulu
-- 👀 I’m interested in ...C#, PHP, JavaScript, html, css and Azure
-- 🌱 I’m currently learning ...SSRS, SSIS, 
+- 👀 I’m interested in ...C#, AWS, NodeJS, html, css and Azure
+- 🌱 I’m currently learning ...NextJS & GraphQL 
 - 💞️ I’m looking to collaborate on Azure
 - 📫 How to reach me ...+27651022468
 
