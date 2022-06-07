@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...C#, AWS, NodeJS, html, css and Azure
 - 🌱 I’m currently learning ...NextJS & GraphQL 
 - 💞️ I’m looking to collaborate on Azure
-- 📫 How to reach me ...+27651022468
+- 📫 How to reach me ...+27810548155
 
 <!---
 SiyabongaVulindlelaBlessingMngomezulu/SiyabongaVulindlelaBlessingMngomezulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
